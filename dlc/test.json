@@ -1,8 +1,10 @@
 {
     "download": [
-        "https://raw.githubusercontent.com/YoshiCrafter29/YoshiCrafterEngine/dev/assets/preload/images/hi.png"
+        "https://raw.githubusercontent.com/YoshiCrafter29/YoshiCrafterEngine/dev/assets/preload/images/hi.png",
+        "https://raw.githubusercontent.com/YoshiCrafter29/YoshiCrafterEngine/dev/assets/preload/images/menuBGYoshiCrafter.png"
     ],
     "downloadpath": [
-        "images/test.png"
+        "images/AAAAAAAA.png",
+        "images/BBBBBBBB.png"
     ]
 }
