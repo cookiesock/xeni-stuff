@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="chars.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ash0000" x="0" y="0" width="518" height="594" frameX="0" frameY="0" frameWidth="519" frameHeight="594"/>
+	<SubTexture name="ash0001" x="0" y="0" width="518" height="594" frameX="0" frameY="0" frameWidth="519" frameHeight="594"/>
+	<SubTexture name="ash0002" x="0" y="0" width="518" height="594" frameX="0" frameY="0" frameWidth="519" frameHeight="594"/>
+	<SubTexture name="ash0003" x="0" y="0" width="518" height="594" frameX="0" frameY="0" frameWidth="519" frameHeight="594"/>
+	<SubTexture name="ash0004" x="0" y="0" width="518" height="594" frameX="0" frameY="0" frameWidth="519" frameHeight="594"/>
+	<SubTexture name="ash0005" x="538" y="0" width="519" height="592" frameX="0" frameY="-2" frameWidth="519" frameHeight="594"/>
+	<SubTexture name="ash0006" x="538" y="0" width="519" height="592" frameX="0" frameY="-2" frameWidth="519" frameHeight="594"/>
+	<SubTexture name="ash0007" x="538" y="0" width="519" height="592" frameX="0" frameY="-2" frameWidth="519" frameHeight="594"/>
+	<SubTexture name="ash0008" x="538" y="0" width="519" height="592" frameX="0" frameY="-2" frameWidth="519" frameHeight="594"/>
+	<SubTexture name="ash0009" x="538" y="0" width="519" height="592" frameX="0" frameY="-2" frameWidth="519" frameHeight="594"/>
+	<SubTexture name="face0000" x="1077" y="0" width="241" height="398" frameX="0" frameY="0" frameWidth="243" frameHeight="399"/>
+	<SubTexture name="face0001" x="1077" y="0" width="241" height="398" frameX="0" frameY="0" frameWidth="243" frameHeight="399"/>
+	<SubTexture name="face0002" x="1077" y="0" width="241" height="398" frameX="0" frameY="0" frameWidth="243" frameHeight="399"/>
+	<SubTexture name="face0003" x="1077" y="0" width="241" height="398" frameX="0" frameY="0" frameWidth="243" frameHeight="399"/>
+	<SubTexture name="face0004" x="1077" y="0" width="241" height="398" frameX="0" frameY="0" frameWidth="243" frameHeight="399"/>
+	<SubTexture name="face0005" x="1338" y="0" width="243" height="399"/>
+	<SubTexture name="face0006" x="1338" y="0" width="243" height="399"/>
+	<SubTexture name="face0007" x="1338" y="0" width="243" height="399"/>
+	<SubTexture name="face0008" x="1338" y="0" width="243" height="399"/>
+	<SubTexture name="face0009" x="1338" y="0" width="243" height="399"/>
+	<SubTexture name="sm3das0000" x="1601" y="0" width="612" height="895"/>
+	<SubTexture name="wes0000" x="2233" y="0" width="473" height="637"/>
+	<SubTexture name="wes0001" x="2233" y="0" width="473" height="637"/>
+	<SubTexture name="wes0002" x="2233" y="0" width="473" height="637"/>
+	<SubTexture name="wes0003" x="2233" y="0" width="473" height="637"/>
+	<SubTexture name="wes0004" x="2233" y="0" width="473" height="637"/>
+	<SubTexture name="wes0005" x="2726" y="0" width="472" height="637" frameX="0" frameY="0" frameWidth="473" frameHeight="637"/>
+	<SubTexture name="wes0006" x="2726" y="0" width="472" height="637" frameX="0" frameY="0" frameWidth="473" frameHeight="637"/>
+	<SubTexture name="wes0007" x="2726" y="0" width="472" height="637" frameX="0" frameY="0" frameWidth="473" frameHeight="637"/>
+	<SubTexture name="wes0008" x="2726" y="0" width="472" height="637" frameX="0" frameY="0" frameWidth="473" frameHeight="637"/>
+	<SubTexture name="wes0009" x="2726" y="0" width="472" height="637" frameX="0" frameY="0" frameWidth="473" frameHeight="637"/>
+	<SubTexture name="wiz0000" x="3218" y="0" width="230" height="368"/>
+	<SubTexture name="wiz0001" x="3218" y="0" width="230" height="368"/>
+	<SubTexture name="wiz0002" x="3218" y="0" width="230" height="368"/>
+	<SubTexture name="wiz0003" x="3218" y="0" width="230" height="368"/>
+	<SubTexture name="wiz0004" x="3218" y="0" width="230" height="368"/>
+	<SubTexture name="wiz0005" x="3468" y="0" width="229" height="367" frameX="-1" frameY="-1" frameWidth="230" frameHeight="368"/>
+	<SubTexture name="wiz0006" x="3468" y="0" width="229" height="367" frameX="-1" frameY="-1" frameWidth="230" frameHeight="368"/>
+	<SubTexture name="wiz0007" x="3468" y="0" width="229" height="367" frameX="-1" frameY="-1" frameWidth="230" frameHeight="368"/>
+	<SubTexture name="wiz0008" x="3468" y="0" width="229" height="367" frameX="-1" frameY="-1" frameWidth="230" frameHeight="368"/>
+	<SubTexture name="wiz0009" x="3468" y="0" width="229" height="367" frameX="-1" frameY="-1" frameWidth="230" frameHeight="368"/>
+	<SubTexture name="xeni0000" x="0" y="915" width="561" height="596"/>
+	<SubTexture name="xeni0001" x="0" y="915" width="561" height="596"/>
+	<SubTexture name="xeni0002" x="0" y="915" width="561" height="596"/>
+	<SubTexture name="xeni0003" x="0" y="915" width="561" height="596"/>
+	<SubTexture name="xeni0004" x="0" y="915" width="561" height="596"/>
+	<SubTexture name="xeni0005" x="581" y="915" width="560" height="595" frameX="-1" frameY="0" frameWidth="561" frameHeight="596"/>
+	<SubTexture name="xeni0006" x="581" y="915" width="560" height="595" frameX="-1" frameY="0" frameWidth="561" frameHeight="596"/>
+	<SubTexture name="xeni0007" x="581" y="915" width="560" height="595" frameX="-1" frameY="0" frameWidth="561" frameHeight="596"/>
+	<SubTexture name="xeni0008" x="581" y="915" width="560" height="595" frameX="-1" frameY="0" frameWidth="561" frameHeight="596"/>
+	<SubTexture name="xeni0009" x="581" y="915" width="560" height="595" frameX="-1" frameY="0" frameWidth="561" frameHeight="596"/>
+</TextureAtlas>
